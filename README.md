@@ -69,7 +69,7 @@ A full-stack MERN web app that automates employee attendance and payroll calcula
 
 ### 💬 Connect With Me
 📧 **Email:** bilal.hafiz0909@gmail.com 
-💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)  
+💼 [LinkedIn](https://www.linkedin.com/in/muhammad-bilal-72a55a252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 
 > 💡 *“Code is like humor. When you have to explain it, it’s bad.”*  
