@@ -48,7 +48,7 @@ RESTful API with full CRUD, JWT authentication, and role-based access control (R
 
 *Stack: Node.js · Express.js · TypeScript · MongoDB · MySQL · JWT · RBAC*
 
-🔗 [Backend Repo](https://github.com/muhammadbilal) *(update link)*
+🔗 [Backend Repo](https://github.com/BilalProgramming/dev-collab-board-backend) *(update link)*
 
 ---
 
@@ -61,17 +61,19 @@ Full-stack MERN application to automate attendance and payroll operations.
 
 *Stack: React.js · Node.js · Express · MongoDB · JWT · RBAC*
 
-🔗 [Live Demo](https://attendance.dc.com.pk) | [Frontend Repo](https://github.com/muhammadbilal) *(update link)*
+🔗 [Live Demo](https://attendance.dc.com.pk) | [Frontend Repo](github.com/BilalProgramming/Attendance_Frontend) *(update link)*
 
 ---
 
-#### ⚡ Realtime Task Manager *(In Progress)*
+#### ⚡ Realtime Task Manager 
 Live task collaboration app with real-time updates and Linear-style UI.
 - Role-based access control (RBAC)
 - Real-time task sync via Socket.io
 - Clean Linear.app-inspired design
 
 *Stack: React 18 · TypeScript · Vite · Tailwind CSS · Shadcn/ui · Zustand · React Query · Socket.io · Node.js*
+[Frontend Repo](github.com/BilalProgramming/realtimetask-frontend)
+[Backend Repo](github.com/BilalProgramming/realtime-taskbackend)
 
 ---
 
