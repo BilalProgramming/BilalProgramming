@@ -1,76 +1,86 @@
-## Hi there 👋 I'm Muhammad Bilal
+# Hi there, I'm Muhammad Bilal 👋
 
-🚀 **MERN Stack Developer | React & Node.js Enthusiast | Frontend API Integrator**
+**MERN Stack Developer · React.js & Node.js · TypeScript · Karachi, Pakistan**
 
-I’m a passionate developer who loves turning ideas into clean, functional, and user-friendly web applications.  
-Currently pursuing a **B.S. in Artificial Intelligence** at **Dawood University of Engineering & Technology**, I enjoy building full-stack systems that are practical, scalable, and beautifully designed.
+Full-time MERN Stack Developer at **Diligent Creators**, working on a live enterprise trading CRM in production. Pursuing a **B.S. in Artificial Intelligence** at Dawood University of Engineering & Technology (Expected 2027). I build clean, scalable frontend systems and REST APIs — with a strong focus on TypeScript, React, and Node.js.
 
 ---
 
 ### 🧠 About Me
-- 💻 Skilled in **MERN Stack Development** (MongoDB, Express, React, Node.js)
-- ⚙️ Strong in **Frontend API Integration** — connecting complex backend systems to intuitive UI
-- 🧩 Experienced with **JWT Auth, Protected Routes, CRUD Operations, and State Management**
-- 🎨 Frontend: React.js, Tailwind CSS, Context API, React Hooks, Responsive Design  
-- 🛠️ Backend: Node.js, Express.js, MongoDB (Mongoose, Middleware)
-- 🌱 Currently exploring **Remix** and **Next.js** for modern SSR development
-- 🎯 Goal: To become a top-performing **Full Stack Developer** and build impactful web apps
+
+- 💻 MERN Stack Developer — frontend-focused, production experience
+- ⚙️ TypeScript + React 18 + Tailwind CSS + Shadcn/ui
+- 🔐 JWT Auth, RBAC, Protected Routes
+- 🔌 Socket.io for real-time features
+- 🌱 Currently learning **Next.js** and **Redis**
+- 🎓 B.S. Artificial Intelligence — Dawood University (2027)
 
 ---
 
-### 💼 Professional Contribution
-#### ⚡ CRM Platform (Ongoing Contribution)
-Worked on the **frontend integration of a CRM system** involving complex APIs and financial modules.  
-- Integrated APIs for **KYC verification, trading account setup, wallet management, and internal transfers**  
-- Handled **account ↔ wallet** fund movement interfaces  
-- Designed responsive UI components using **React + Tailwind CSS**  
-- Ensured smooth data handling and error management for a seamless user experience  
+### 🧰 Tech Stack
 
-🧩 *Tech Stack:* React.js, Context API, Axios, Tailwind CSS, REST APIs
+**Frontend:** React.js · TypeScript · Tailwind CSS · Shadcn/ui · Zustand · React Query · Context API · React Hooks
 
----
+**Backend:** Node.js · Express.js · TypeScript · REST APIs · JWT · RBAC · Socket.io
 
-### 🛠️ Featured Projects
-#### 🕒 Attendance & Payroll Management System
-A full-stack MERN application to automate attendance and payroll operations.  
-- Role-based admin/user dashboards  
-- Location-based check-in/out  
-- PDF & Excel report generation  
-- Secure JWT authentication  
+**Databases:** MongoDB (Mongoose) · MySQL
 
-🔗 [Live Demo](https://attendance.dc.com.pk) | [Code](https://github.com/YourRepoLink)
-
-### 🧰 Tech Toolbox
-React | Node.js | Express | MongoDB | Tailwind CSS | Context API | REST APIs | JWT | Vercel | Render | Git | Postman
+**Tools:** Vite · Git · Postman · Axios · Render · Vercel
 
 ---
 
-### 💬 Connect With Me
-📧 **Email:** bilal.hafiz0909@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/muhammad-bilal-72a55a252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+### 💼 Professional Experience
 
----
+#### ⚡ NextGen Trader CRM — Diligent Creators *(Current)*
+Live enterprise trading platform — React.js frontend (Laravel backend handled by a separate team).
+- Integrated APIs for KYC verification, trading account setup, wallet management, and internal fund transfers
+- Built responsive UI components using React.js + Tailwind CSS
+- Handled account ↔ wallet fund movement interfaces with proper error management
 
-> 💡 *“The best way to predict the future is to build it.”* — Alan Kay- 🌱 Currently learning **Remix** and **Next.js** to enhance my full-stack skills
-- 🎯 Goal: To grow as a **Full-Stack Developer** and contribute to impactful projects
+*Stack: React.js · Tailwind CSS · Axios · REST APIs · Context API*
 
 ---
 
 ### 🛠️ Featured Projects
+
+#### 📋 Task Management REST API
+RESTful API with full CRUD, JWT authentication, and role-based access control (RBAC). Built in two versions — MongoDB (Mongoose) and MySQL.
+
+*Stack: Node.js · Express.js · TypeScript · MongoDB · MySQL · JWT · RBAC*
+
+🔗 [Backend Repo](https://github.com/muhammadbilal) *(update link)*
+
+---
+
 #### 🕒 Attendance & Payroll Management System
-A full-stack MERN web app that automates employee attendance and payroll calculations.  
-- Role-based admin and user dashboards  
-- Location-based check-in  
-- PDF/Excel report export  
-- Secure JWT authentication  
-🔗 [Live Demo](https://attendance.dc.com.pk) | [Code](https://github.com/YourRepoLink)
+Full-stack MERN application to automate attendance and payroll operations.
+- Role-based admin/user dashboards
+- Location-based check-in/out with cron job automation
+- PDF & Excel report generation
+- Secure JWT authentication
 
+*Stack: React.js · Node.js · Express · MongoDB · JWT · RBAC*
 
+🔗 [Live Demo](https://attendance.dc.com.pk) | [Frontend Repo](https://github.com/muhammadbilal) *(update link)*
+
+---
+
+#### ⚡ Realtime Task Manager *(In Progress)*
+Live task collaboration app with real-time updates and Linear-style UI.
+- Role-based access control (RBAC)
+- Real-time task sync via Socket.io
+- Clean Linear.app-inspired design
+
+*Stack: React 18 · TypeScript · Vite · Tailwind CSS · Shadcn/ui · Zustand · React Query · Socket.io · Node.js*
+
+---
 
 ### 💬 Connect With Me
-📧 **Email:** bilal.hafiz0909@gmail.com 
-💼 [LinkedIn](https://www.linkedin.com/in/muhammad-bilal-72a55a252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
+📧 **Email:** bilal.hafiz0909@gmail.com
+💼 **LinkedIn:** [muhammad-bilal-72a55a252](https://www.linkedin.com/in/muhammad-bilal-72a55a252)
+📍 **Location:** Karachi, Pakistan
 
-> 💡 *“Code is like humor. When you have to explain it, it’s bad.”*  
-> — Cory House
+---
+
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
